@@ -1,1 +1,15 @@
+#Các bước setup Project để có thể sử dụng được ứng dụng này
 
+B1: Tạo một project trong Android Studio có tên "opencvprject".
+B2: Download opencv-4.1.0-android-sdk
+B3: Import OpenCV và tạo module trong project:
+- Trong project chọn "File > New > Import Module…"
+- Truy cập tới nơi lưu opencv-4.1.0-android-sdk vừa mới tải và chọn opencv-4.1.0-android-sdk\sdk\java.
+- Click finish
+- mở build.gradle của openCVLibrary 24132, sửa các số của “compileSdkVersion”, “buildToolsVersion”, “minSdkVersion”, “targetSdkVersion” cho giống build.gradle của app.
+- File > Project Structure > Dependencies > add dependency và chọn openCVLibrary341
+- Tạo folder “jniLibs” tại “\app\src\main\” trong Adroid Studio
+- Copy tất cả các file trong “opencv-4.1.0-android-sdksdk\native\libs” và paste vào “jniLibs” vừa tạo.
+Tham khảo tại: https://medium.com/@linjunghsuan/add-opencv-library-into-android-studio-6b02bc2920c0
+B4: Coppy file MainActivity.java trong GitHub và paste vào MainActivity.java tại app\src\main\java\com\example\opencvprject
+B5:
