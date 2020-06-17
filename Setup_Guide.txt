@@ -64,3 +64,5 @@ Tham khảo tại: https://answers.opencv.org/question/68324/installing-opencv-m
 và: https://stackoverflow.com/questions/20564514/adb-is-not-recognized-as-an-internal-or-external-command-operable-program-or
 
 B9: Run App và chờ kết quả
+
+Note: Nếu như gặp bất cứ lỗi phát sinh hoặc khó khăn nào, có thể liên hệ: quochoapy1999@gmail.com
