@@ -31,5 +31,5 @@ Chia làm các file chính:
     + Nhận diện cạnh.
     + Biến đổi Hough.
     + Vẽ các đường.
-<video src="https://www.youtube.com/watch?v=zesafNcvtuY&feature=youtu.be"></video>
+<video><source src ="https://www.youtube.com/watch?v=zesafNcvtuY&feature=youtu.be"></source></video>
 [![Result of project](https://gifs.com/gif/1Wo5NP)](https://www.youtube.com/watch?v=zesafNcvtuY&feature=youtu.be)
