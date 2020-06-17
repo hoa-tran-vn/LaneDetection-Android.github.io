@@ -32,4 +32,4 @@ Chia làm các file chính:
     + Biến đổi Hough.
     + Vẽ các đường.
   
-[![Result of project](doc/SC2_youtube.gif)](https://www.youtube.com/watch?v=zesafNcvtuY&feature=youtu.be)
+<iframe src='//gifs.com/embed/mOzBP9' frameborder='0' scrolling='no' width='640px' height='360px' style='-webkit-backface-visibility: hidden;-webkit-transform: scale(1);' ></iframe>
