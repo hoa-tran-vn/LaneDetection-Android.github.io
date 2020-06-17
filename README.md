@@ -32,4 +32,4 @@ Chia làm các file chính:
     + Biến đổi Hough.
     + Vẽ các đường.
   
-<a href="https://imgflip.com/gif/45dy7n">via src="https://imgflip.com/embed/45dy7n" Imgflip</a></p></div>
+<a href="https://imgflip.com/gif/45dy7n">via src="https://imgflip.com/embed/45dy7n" title = "made at imflip.com" </a>
